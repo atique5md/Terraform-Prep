@@ -13,17 +13,17 @@ Welcome to my **Terraform** learning repository! This repo tracks my step-by-ste
 
 ##  Learning Roadmap & Progress
 
-- [ ] **Phase 1: Terraform Foundations**
-  - [ ] What is IaC & Terraform Architecture?
-  - [ ] Installing Terraform & CLI setup
-  - [ ] HCL (HashiCorp Configuration Language) basics
-  - [ ] Provider configuration (`providers.tf`)
+- [X] **Phase 1: Terraform Foundations**
+  - [X] What is IaC & Terraform Architecture?
+  - [X] Installing Terraform & CLI setup
+  - [X] HCL (HashiCorp Configuration Language) basics
+  - [X] Provider configuration (`providers.tf`)
 
-- [ ] **Phase 2: Core Workflow & Commands**
-  - [ ] `terraform init` — Initializing working directory
-  - [ ] `terraform plan` — Previewing changes
-  - [ ] `terraform apply` — Provisioning infrastructure
-  - [ ] `terraform destroy` — Tearing down resources
+- [X] **Phase 2: Core Workflow & Commands**
+  - [X] `terraform init` — Initializing working directory
+  - [X] `terraform plan` — Previewing changes
+  - [X] `terraform apply` — Provisioning infrastructure
+  - [X] `terraform destroy` — Tearing down resources
 
 - [ ] **Phase 3: State Management & Variables**
   - [ ] Input Variables (`variables.tf`) & Output Values (`outputs.tf`)
